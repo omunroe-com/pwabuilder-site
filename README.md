@@ -1,6 +1,6 @@
 # PWABuilder v2 (Currently in Development)
 
-Vue.js site for PWABuilder, a tool to make building PWAs easier
+PWABuilder, a tool to make building PWAs easier
 
 ## Prerequisites
 
