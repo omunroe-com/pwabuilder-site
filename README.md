@@ -1,6 +1,6 @@
 # PWABuilder v2 (Currently in Development)
 
-PWABuilder, a tool to make building PWAs easier
+PWABuilder, a tool to make building PWAs easier. This repo is for the front-end part of the project. 
 
 ## Prerequisites
 
@@ -15,5 +15,8 @@ You will need the following things properly installed on your computer.
 
 ## Installation
 
+TBD
+
 ## Running / Development
 
+TBD
